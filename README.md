@@ -1,5 +1,5 @@
 
-# Stick Figure Combat - Backend Services
+# Stick Figure Combat Simulator
 
 This project comprises multiple microservices to support the **Stick Figure Combat** game. Each service is designed to handle a specific functionality, ensuring scalability and maintainability. The services communicate via REST APIs and are containerized for deployment on Kubernetes.
 
